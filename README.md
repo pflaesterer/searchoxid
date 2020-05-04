@@ -1,5 +1,5 @@
 # searchoxid
-Enhances the search function in OXID eShop (CE) Version 6
+Enhances the oxid shop search (also searches in variants).
 
 For install type the following commands in the root-dir of the shop:
 
