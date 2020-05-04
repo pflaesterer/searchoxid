@@ -1,0 +1,16 @@
+{
+    "name": "pflaesterer/searchoxid",
+    "type": "oxideshop-module",
+    "license": "MIT",
+    "extra": {
+        "oxideshop": {
+            "target-directory": "pflaesterer/searchoxid"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Pflaesterer\\SearchOxid\\": "./source/modules/pflaesterer/searchoxid"
+        }
+    }
+}
+
