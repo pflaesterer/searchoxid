@@ -13,7 +13,7 @@ $aModule = array(
     'title'        => '<span style="font-family:monospace;background-color:#000000;color:#FFFFFF;">&nbsp;pflaesterer&nbsp;</span> - searchoxid',
     'thumbnail'    => 'logo.png',
     'email'        => 'oxid@pflaesterer.org',
-    'url'          => 'https://pflaesterer.org',
+    'url'          => 'https://github.com/pflaesterer/searchoxid',
     'description'  => array(
         'en'=>'Enhances the oxid shop search (also searches in variants).',
         'de'=>'Verbessert die OXID Shop Suche (durchsucht auch die Varianten).',
