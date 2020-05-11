@@ -9,7 +9,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Pflaesterer\\SearchOxid\\": "./source/modules/pflaesterer/searchoxid"
+            "Pflaesterer\\SearchOxid\\": "./"
         }
     }
 }
