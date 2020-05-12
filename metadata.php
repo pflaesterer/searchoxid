@@ -18,7 +18,7 @@ $aModule = array(
         'en'=>'Enhances the oxid shop search (also searches in variants).',
         'de'=>'Verbessert die OXID Shop Suche (durchsucht auch die Varianten).',
     ),
-    'version'      => '1.0.1',
+    'version'      => '1.0.3',
     'author'       => 'Philip Pflästerer',
     
     /*
